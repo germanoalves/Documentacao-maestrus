@@ -3,7 +3,7 @@
 
 > **Sejam muito bem vindos ao Maestrus! Uma plataforma EAD de fácil uso tanto para quem ministra os cursos, tanto para seus alunos.**
 
-Aqui seus alunos terão um ambiente intuitivo e dinâmico, que valorizará seu tempo de aprendizado.
+>>> Aqui seus alunos terão um ambiente intuitivo e dinâmico, que valorizará seu tempo de aprendizado.
 
 Além disso, um ambiente seguro para a gestão de informações.
 
