@@ -3,10 +3,6 @@
 
 > **Sejam muito bem vindos ao Maestrus! Uma plataforma EAD de fácil uso tanto para quem ministra os cursos, tanto para seus alunos.**
 
-![Imagem Frontend](images/bemvindo-maestrus.png?resize=500,774)
-
-
-
 
 # COMO FUNCIONA? #
 
