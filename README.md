@@ -1,7 +1,7 @@
 
 ![Imagem Welcome](images/logo-maestrus300-horizontal.png)
 
-> # **Sejam muito bem vindos ao Maestrus! Uma plataforma EAD de fácil uso tanto para quem ministra os cursos, quanto para seus alunos.** #
+# **Sejam muito bem vindos ao Maestrus! Uma plataforma EAD de fácil uso tanto para quem ministra os cursos, quanto para seus alunos.** #
 
 > ## Aqui seus alunos terão um ambiente intuitivo e dinâmico, que valorizará seu tempo de aprendizado. Além disso, um ambiente seguro para a gestão de informações. ##
 
