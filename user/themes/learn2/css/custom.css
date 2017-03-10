@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header {
+    background: rgba(255,255,255,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(224,224,224,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(224,224,224,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(224,224,224,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(224,224,224,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(224,224,224,1) 100%);
+background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(224,224,224,1) 100%);
+    color: $white;
+    text-align: center;
+	border-bottom: #949494 dotted 2px;}
+	
+svg#logo-svg { background-image: url(../images/logo-maestrus300-horizontal.png); width: 260px !important; height:60px !important; padding-bottom: 20px; background-repeat:no-repeat; text-align: center !important;}
+
+#sidebar{background-color: #ffffff !important;}
+/*#introducao{border-right: #F00 solid 2px;}*/
+
+#sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
+    background: #ffffff;}
+	
+#sidebar a {
+    color: #03B176; font-size: 16px;}
+
+#sidebar hr {
+    border-bottom: 1px solid #323a44;
+    display: none;
+}
+
+
+#footer {
+    padding: 3rem 1rem;
+    color: #a2a2a2;
+    font-size: 13px;
+    display: none;
+}
