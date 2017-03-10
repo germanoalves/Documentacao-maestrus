@@ -5,6 +5,7 @@
 
 > ## Aqui seus alunos terão um ambiente intuitivo e dinâmico, que valorizará seu tempo de aprendizado. Além disso, um ambiente seguro para a gestão de informações. ##
 
+
 ![Imagem Welcome](images/bemvindo-maestrus.png?forceResize=100,374)
 
 # COMO FUNCIONA? #
