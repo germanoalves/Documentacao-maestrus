@@ -9,8 +9,6 @@ Além disso, um ambiente seguro para a gestão de informações.
 
 ![Imagem Welcome](images/bemvindo-maestrus.png?forceResize=100,374)
 
-
-
 # COMO FUNCIONA? #
 
 ![Imagem Welcome](images/welcome_maestrus.jpg)
