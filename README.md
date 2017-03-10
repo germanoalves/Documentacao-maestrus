@@ -7,7 +7,7 @@ Aqui seus alunos terão um ambiente intuitivo e dinâmico, que valorizará seu t
 
 Além disso, um ambiente seguro para a gestão de informações.
 
-![Imagem Welcome](images/bemvindo-maestrus.png?resize=100,374)
+![Imagem Welcome](images/bemvindo-maestrus.png?forceResize=100,374)
 
 
 
