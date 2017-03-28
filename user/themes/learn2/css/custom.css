@@ -12,8 +12,29 @@ background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(224,
     color: $white;
     text-align: center;
 	border-bottom: #949494 dotted 2px;}
+
+#header #logo-svg path {
+    display: none;
+    fill: #fff;
+	display:none !important
+}
+
 	
 svg#logo-svg { background-image: url(../images/logo-maestrus300-horizontal.png); width: 260px !important; height:60px !important; padding-bottom: 20px; background-repeat:no-repeat; text-align: center !important;}
+
+.searchbox input {
+    display: inline-block;
+    color: #fff;
+    width: 100%;
+    height: 30px;
+    background: #03B175;
+    border: 1px solid  #229d72;
+    padding: 0 25px 0 30px;
+    margin: 0;
+    font-weight: 400;
+}
+
+
 
 #sidebar{background-color: #ffffff !important;}
 /*#introducao{border-right: #F00 solid 2px;}*/

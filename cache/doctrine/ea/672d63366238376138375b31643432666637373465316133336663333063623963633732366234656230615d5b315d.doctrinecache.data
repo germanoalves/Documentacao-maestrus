@@ -1,0 +1,43 @@
+1491272142
+a:2:{s:7:"content";s:2129:"<blockquote>
+<p><strong>Sejam muito bem vindos ao Maestrus! Uma plataforma EAD de fácil uso tanto para quem ministra os cursos, tanto para seus alunos.</strong></p>
+</blockquote>
+<p><img alt="Imagem Frontend" src="/sites/Documentacao-maestrus/images/c/b/c/9/1/cbc9155d392ea57e8e1fcf3926ec6744dbbd1c70-bemvindo-maestrus.png" /></p>
+<h1>COMO FUNCIONA?</h1>
+<p><img alt="Imagem Welcome" src="/sites/Documentacao-maestrus/user/pages/01.introducao-2/welcome_maestrus.jpg" /></p>
+<h1>CONHECENDO UM POUCO MAIS DO MAESTRUS</h1>
+<p>
+      
+  
+      
+              
+      
+        
+          
+              
+  <div class="mediaembed-responsive mediaembed-media mediaembed-video mediaembed-youtube lazyload">
+    <div class="mediaembed-container" style="padding-bottom: 60.94%;">
+    
+              <a href="http://www.youtube.com/embed/9bddukji-U4?autoplay=0&modestbranding=1&theme=light&v=9bddukji-U4" alt="O Maestrus" title="" class="mediaembed-media" onclick="lazyload(this)">
+                <!--
+        <iframe class="mediaembed-embed" src="http://www.youtube.com/embed/9bddukji-U4?autoplay=0&modestbranding=1&theme=light&v=9bddukji-U4" width="1920" height="1170" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+          <p>Your browser does not support iframes.</p>
+        </iframe>
+        -->
+
+                          <img src="https://i.ytimg.com/vi/9bddukji-U4/hqdefault.jpg" alt="O Maestrus" title="" class="mediaembed-thumbnail" />
+        
+                <input type="checkbox" id="mediaembed-hidden-input-1" class="mediaembed-input" />
+
+                <noscript>
+          <iframe class="mediaembed-embed" src="http://www.youtube.com/embed/9bddukji-U4?autoplay=0&modestbranding=1&theme=light&v=9bddukji-U4" width="1920" height="1170" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen style="display: none;">
+            <p>Your browser does not support iframes.</p>
+          </iframe>
+        </noscript>
+
+        <label class="mediaembed-play" for="mediaembed-hidden-input-1">&#9654;</label>
+      </a>
+
+            </div>
+  </div>
+</p>";s:12:"content_meta";N;}

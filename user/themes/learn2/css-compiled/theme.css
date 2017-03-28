@@ -173,9 +173,9 @@ textarea, input[type="email"], input[type="number"], input[type="password"], inp
       margin: 0 1rem; }
       #sidebar ul.topics.searched ul {
         display: block; }
-      #sidebar ul.topics ul {
+     /* #sidebar ul.topics ul {
         display: none;
-        padding-bottom: 1rem; }
+        padding-bottom: 1rem; }*/
         #sidebar ul.topics ul ul {
           padding-bottom: 0; }
       #sidebar ul.topics li.parent ul, #sidebar ul.topics > li.active ul {

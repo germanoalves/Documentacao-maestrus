@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/sites/Documentacao-maestrus/user/themes/learn2/languages.yaml',
-    'modified' => 1484749014,
+    'modified' => 1489689323,
     'data' => [
         'en' => [
             'THEME_LEARN2_GITHUB_EDIT_THIS_PAGE' => 'edit this page',

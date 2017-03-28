@@ -1,13 +1,13 @@
 title: 'Maestrus - Documentação'
-default_lang: pt
+default_lang: en
 author:
-  name: 'Leonardo Miranda'
-  email: leomir@gmail.com
+  name: 'Joe Bloggs'
+  email: joe@test.com
 taxonomies:
   - category
   - tag
 metadata:
-  description: 'RTFM Skeleton'
+  description: Maestrus
 summary:
   enabled: true
   format: short

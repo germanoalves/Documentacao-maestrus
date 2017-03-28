@@ -1,75 +1,57 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1488577002,
-    'checksum' => 'dc809a90df19654487110b22281c54fb',
+    'timestamp' => 1490667321,
+    'checksum' => '104080ba527d9c56f05b8f5c04c8ab66',
     'files' => [
-        'user/localhost/config' => [
-            'plugins/admin' => [
-                'file' => 'user/localhost/config/plugins/admin.yaml',
-                'modified' => 1487166885
-            ],
-            'plugins/backup-manager' => [
-                'file' => 'user/localhost/config/plugins/backup-manager.yaml',
-                'modified' => 1488564015
-            ],
-            'plugins/mediaembed' => [
-                'file' => 'user/localhost/config/plugins/mediaembed.yaml',
-                'modified' => 1488571159
-            ],
-            'plugins/simplesearch' => [
-                'file' => 'user/localhost/config/plugins/simplesearch.yaml',
-                'modified' => 1488223922
-            ],
-            'security' => [
-                'file' => 'user/localhost/config/security.yaml',
-                'modified' => 1485781860
-            ],
-            'system' => [
-                'file' => 'user/localhost/config/system.yaml',
-                'modified' => 1488224132
-            ],
-            'themes/learn2' => [
-                'file' => 'user/localhost/config/themes/learn2.yaml',
-                'modified' => 1486568895
-            ]
-        ],
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1485776682
+                'modified' => 1489674632
             ],
-            'plugins/anchors' => [
-                'file' => 'user/config/plugins/anchors.yaml',
-                'modified' => 1484749008
+            'plugins/assets' => [
+                'file' => 'user/config/plugins/assets.yaml',
+                'modified' => 1490287346
             ],
-            'plugins/highlight' => [
-                'file' => 'user/config/plugins/highlight.yaml',
-                'modified' => 1484749008
+            'plugins/bootstrapper' => [
+                'file' => 'user/config/plugins/bootstrapper.yaml',
+                'modified' => 1490287586
             ],
-            'plugins/simplesearch' => [
-                'file' => 'user/config/plugins/simplesearch.yaml',
-                'modified' => 1484749008
+            'plugins/custom-css' => [
+                'file' => 'user/config/plugins/custom-css.yaml',
+                'modified' => 1490635737
+            ],
+            'plugins/flex-directory' => [
+                'file' => 'user/config/plugins/flex-directory.yaml',
+                'modified' => 1490287602
+            ],
+            'plugins/mediaembed' => [
+                'file' => 'user/config/plugins/mediaembed.yaml',
+                'modified' => 1489697760
+            ],
+            'plugins/tidyhtml' => [
+                'file' => 'user/config/plugins/tidyhtml.yaml',
+                'modified' => 1490287933
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1485776670
+                'modified' => 1489674630
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1486568220
+                'modified' => 1489695907
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1485776682
+                'modified' => 1489674632
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1488576949
+                'modified' => 1490646445
             ],
             'themes/learn2' => [
                 'file' => 'user/config/themes/learn2.yaml',
-                'modified' => 1485778779
+                'modified' => 1489696857
             ]
         ],
         'system/config' => [
@@ -93,55 +75,75 @@ return [
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1488223297
+                'modified' => 1490279021
             ],
-            'plugins/anchors' => [
-                'file' => 'user/plugins/anchors/anchors.yaml',
-                'modified' => 1484749010
+            'plugins/assets' => [
+                'file' => 'user/plugins/assets/assets.yaml',
+                'modified' => 1490279858
             ],
-            'plugins/backup-manager' => [
-                'file' => 'user/plugins/backup-manager/backup-manager.yaml',
-                'modified' => 1487252760
+            'plugins/count-views' => [
+                'file' => 'user/plugins/count-views/count-views.yaml',
+                'modified' => 1490275001
             ],
-            'plugins/breadcrumbs' => [
-                'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
-                'modified' => 1484749012
+            'plugins/custom-css' => [
+                'file' => 'user/plugins/custom-css/custom-css.yaml',
+                'modified' => 1490626061
+            ],
+            'plugins/devtools' => [
+                'file' => 'user/plugins/devtools/devtools.yaml',
+                'modified' => 1490625849
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1484674094
+                'modified' => 1484677694
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1484749012
+                'modified' => 1484677694
+            ],
+            'plugins/flex-directory' => [
+                'file' => 'user/plugins/flex-directory/flex-directory.yaml',
+                'modified' => 1490279988
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1488223320
-            ],
-            'plugins/highlight' => [
-                'file' => 'user/plugins/highlight/highlight.yaml',
-                'modified' => 1484749014
+                'modified' => 1490279031
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1485780476
+                'modified' => 1490279034
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
-                'modified' => 1484674094
+                'modified' => 1484677694
             ],
             'plugins/mediaembed' => [
                 'file' => 'user/plugins/mediaembed/mediaembed.yaml',
-                'modified' => 1487075053
+                'modified' => 1489697604
+            ],
+            'plugins/mobile-detect' => [
+                'file' => 'user/plugins/mobile-detect/mobile-detect.yaml',
+                'modified' => 1490281281
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1488223326
+                'modified' => 1490274993
+            ],
+            'plugins/readingtime' => [
+                'file' => 'user/plugins/readingtime/readingtime.yaml',
+                'modified' => 1490275001
+            ],
+            'plugins/relatedpages' => [
+                'file' => 'user/plugins/relatedpages/relatedpages.yaml',
+                'modified' => 1490274999
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
-                'modified' => 1487166907
+                'modified' => 1490275000
+            ],
+            'plugins/tidyhtml' => [
+                'file' => 'user/plugins/tidyhtml/tidyhtml.yaml',
+                'modified' => 1490286340
             ]
         ]
     ],
@@ -152,7 +154,7 @@ return [
                 'route' => '/admin',
                 'cache_enabled' => false,
                 'theme' => 'grav',
-                'logo_text' => 'Maestrus - Documentação',
+                'logo_text' => '',
                 'body_classes' => '',
                 'sidebar' => [
                     'activate' => 'tab',
@@ -192,51 +194,26 @@ return [
                         1 => '/modular'
                     ],
                     'history' => [
-                        'daily' => '30',
-                        'monthly' => '12',
-                        'visitors' => '20'
+                        'daily' => 30,
+                        'monthly' => 12,
+                        'visitors' => 20
                     ]
                 ]
             ],
-            'anchors' => [
-                'enabled' => true,
-                'active' => true,
-                'selectors' => '#body h2, #body h3, #body h4, #body h5',
-                'placement' => 'right',
-                'visible' => 'hover',
-                'icon' => NULL,
-                'class' => NULL
+            'assets' => [
+                'enabled' => true
             ],
-            'backup-manager' => [
+            'count-views' => [
                 'enabled' => true,
-                'backup' => [
-                    'testmode' => [
-                        'enabled' => true,
-                        'compressionratio' => 1.2
-                    ],
-                    'phptimeout' => 600,
-                    'storage' => [
-                        'maxspace' => 10,
-                        'keepdays' => 10,
-                        'showbackups' => 50
-                    ],
-                    'log' => true,
-                    'ignore' => [
-                        'foldercase' => true,
-                        'toplevelintersect' => false,
-                        'foldersintersect' => false,
-                        'forceaddasempty' => false
-                    ]
-                ]
+                'datafile' => 'count-views.yaml'
             ],
-            'breadcrumbs' => [
+            'custom-css' => [
                 'enabled' => true,
-                'show_all' => true,
-                'built_in_css' => true,
-                'include_home' => true,
-                'icon_home' => '',
-                'icon_divider_classes' => 'fa fa-angle-right',
-                'link_trailing' => false
+                'css_inline' => '#sidebar ul.topics ul {
+             padding-bottom: 1rem; }'
+            ],
+            'devtools' => [
+                'enabled' => true
             ],
             'email' => [
                 'enabled' => true,
@@ -266,6 +243,14 @@ return [
                     404 => '/error'
                 ]
             ],
+            'flex-directory' => [
+                'enabled' => false,
+                'built_in_css' => true,
+                'json_file' => 'user://data/flex-directory/entries.json',
+                'blueprint_file' => 'plugin://flex-directory/blueprints/entries.yaml',
+                'extra_admin_twig_path' => 'theme://admin/templates',
+                'extra_site_twig_path' => NULL
+            ],
             'form' => [
                 'enabled' => true,
                 'built_in_css' => true,
@@ -280,10 +265,6 @@ return [
                         0 => 'image/*'
                     ]
                 ]
-            ],
-            'highlight' => [
-                'enabled' => true,
-                'theme' => 'learn'
             ],
             'login' => [
                 'enabled' => true,
@@ -341,9 +322,9 @@ return [
                 'built_in_css' => true,
                 'built_in_js' => true,
                 'media' => [
-                    'width' => 500,
+                    'width' => 640,
                     'height' => 390,
-                    'adjust' => true,
+                    'adjust' => false,
                     'preview' => true,
                     'responsive' => true,
                     'protocol' => 'http://'
@@ -508,28 +489,150 @@ return [
                     ]
                 ]
             ],
+            'mobile-detect' => [
+                'enabled' => true
+            ],
             'problems' => [
                 'enabled' => true,
                 'built_in_css' => true
             ],
+            'readingtime' => [
+                'enabled' => true,
+                'words_per_minute' => 200,
+                'format' => '{minutes_short_count} {minutes_text}, {seconds_short_count} {seconds_text}',
+                'round' => 'seconds'
+            ],
+            'relatedpages' => [
+                'enabled' => true,
+                'limit' => 5,
+                'show_score' => true,
+                'score_threshold' => 20,
+                'filter' => [
+                    'items' => [
+                        '@page' => '/blog'
+                    ],
+                    'order' => [
+                        'by' => 'date',
+                        'dir' => 'desc'
+                    ]
+                ],
+                'page_in_filter' => true,
+                'explicit_pages' => [
+                    'process' => true,
+                    'score' => 100
+                ],
+                'taxonomy_match' => [
+                    'taxonomy' => 'tag',
+                    'taxonomy_taxonomy' => [
+                        'process' => true,
+                        'score_scale' => [
+                            1 => 50,
+                            2 => 75,
+                            3 => 100
+                        ]
+                    ],
+                    'taxonomy_content' => [
+                        'process' => true,
+                        'score_scale' => [
+                            1 => 20,
+                            2 => 30,
+                            3 => 45,
+                            4 => 60,
+                            5 => 70,
+                            6 => 80,
+                            7 => 90,
+                            8 => 100
+                        ]
+                    ]
+                ],
+                'content_match' => [
+                    'process' => false
+                ]
+            ],
             'simplesearch' => [
                 'enabled' => true,
                 'built_in_css' => true,
-                'display_button' => true,
+                'display_button' => false,
                 'min_query_length' => 3,
                 'route' => '/search',
                 'template' => 'simplesearch_results',
                 'filters' => [
-                    'category' => [
-                        0 => 'docs'
-                    ]
+                    'category' => 'blog'
                 ],
                 'filter_combinator' => 'and',
                 'ignore_accented_characters' => true,
                 'order' => [
                     'by' => 'date',
-                    'dir' => 'asc'
+                    'dir' => 'desc'
                 ]
+            ],
+            'tidyhtml' => [
+                'enabled' => false,
+                'hide_comments' => true,
+                'indent' => true,
+                'wrap' => 0,
+                'indent_spaces' => 4,
+                'blocklevel_tags' => [
+                    0 => 'article',
+                    1 => 'header',
+                    2 => 'aside',
+                    3 => 'audio',
+                    4 => 'bdi',
+                    5 => 'canvas',
+                    6 => 'details',
+                    7 => 'dialog',
+                    8 => 'figcaption',
+                    9 => 'figure',
+                    10 => 'footer',
+                    11 => 'hgroup',
+                    12 => 'main',
+                    13 => 'menu',
+                    14 => 'menuitem',
+                    15 => 'nav',
+                    16 => 'section',
+                    17 => 'source',
+                    18 => 'summary',
+                    19 => 'template',
+                    20 => 'track',
+                    21 => 'video'
+                ],
+                'empty_tags' => [
+                    0 => 'command',
+                    1 => 'embed',
+                    2 => 'keygen',
+                    3 => 'source',
+                    4 => 'track',
+                    5 => 'wbr'
+                ],
+                'inline_tags' => [
+                    0 => 'audio',
+                    1 => 'command',
+                    2 => 'datalist',
+                    3 => 'embed',
+                    4 => 'keygen',
+                    5 => 'mark',
+                    6 => 'menuitem',
+                    7 => 'meter',
+                    8 => 'output',
+                    9 => 'progress',
+                    10 => 'source',
+                    11 => 'time',
+                    12 => 'video',
+                    13 => 'wbr',
+                    14 => 'data'
+                ],
+                'ignore_pages' => [
+                    0 => 'sitemap'
+                ]
+            ],
+            'bootstrapper' => [
+                'enabled' => true,
+                'always_load' => true,
+                'use_cdn' => true,
+                'mode' => 'production',
+                'load_core_css' => true,
+                'load_theme_css' => true,
+                'load_core_js' => true
             ]
         ],
         'media' => [
@@ -792,17 +895,17 @@ return [
         ],
         'site' => [
             'title' => 'Maestrus - Documentação',
-            'default_lang' => 'pt',
+            'default_lang' => 'en',
             'author' => [
-                'name' => 'Leonardo Miranda',
-                'email' => 'leomir@gmail.com'
+                'name' => 'Joe Bloggs',
+                'email' => 'joe@test.com'
             ],
             'taxonomies' => [
                 0 => 'category',
                 1 => 'tag'
             ],
             'metadata' => [
-                'description' => 'RTFM Skeleton'
+                'description' => 'Maestrus'
             ],
             'summary' => [
                 'enabled' => true,
@@ -860,8 +963,8 @@ return [
                 'override_locale' => false
             ],
             'home' => [
-                'alias' => '/introducao',
-                'hide_in_urls' => false
+                'alias' => '/introducao-2',
+                'hide_in_urls' => true
             ],
             'pages' => [
                 'theme' => 'learn2',
@@ -930,8 +1033,7 @@ return [
                         0 => 'form',
                         1 => 'forms'
                     ]
-                ],
-                'markdown_extra' => true
+                ]
             ],
             'cache' => [
                 'enabled' => true,
@@ -974,7 +1076,7 @@ return [
                 ]
             ],
             'errors' => [
-                'display' => '0',
+                'display' => '1',
                 'log' => true
             ],
             'debugger' => [
@@ -1018,7 +1120,7 @@ return [
             ]
         ],
         'security' => [
-            'salt' => 'D4Quv50N16Zd9C'
+            'salt' => '6azCRsH8cqV0Sy'
         ],
         'themes' => [
             'learn2' => [

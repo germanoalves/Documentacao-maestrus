@@ -1,0 +1,11 @@
+email: germano.alves@maestrus.com
+fullname: maestrus
+title: administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$Z3u3oiJjYoT0ByLQLIzut.ngE0UMyGCdpnoeMzpAJtZA1sKePYOlu
